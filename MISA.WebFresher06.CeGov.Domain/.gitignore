@@ -1,0 +1,9 @@
+﻿# Bỏ qua file log
+*.log
+
+# Bỏ qua thư mục được tạo bởi IDE
+.vs/
+
+# Bỏ qua các thư mục và tệp tạo ra bởi quá trình biên dịch
+bin/
+obj/
